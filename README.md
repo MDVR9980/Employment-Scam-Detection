@@ -14,11 +14,12 @@ Key challenges addressed:
 - **Text Processing:** Converting unstructured job descriptions into meaningful numerical vectors.
 
 ## 📂 Project Structure
-```text
+
 ├── DataSet.csv              # The dataset containing job descriptions (EMSCAD)
 ├── Project_Analysis.ipynb   # Main Jupyter Notebook with code, visualizations, and models
 ├── requirements.txt         # List of dependencies
 └── README.md                # Project documentation
+‍‍
 
 ## 🚀 Key Features & Methodology
 
