@@ -1,0 +1,10 @@
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scikit-learn>=1.4.0
+nltk>=3.8.1
+imbalanced-learn>=0.12.0
+beautifulsoup4>=4.12.0
+notebook>=7.0.0
+ipykernel>=6.29.0

@@ -1,0 +1,68 @@
+# ============================================
+# Python & Anaconda project for Telegram Sentiment Analysis
+# ============================================
+
+# --- Python cache & compiled files ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# --- Jupyter notebooks checkpoints ---
+.ipynb_checkpoints/
+
+# --- Environment & dependencies ---
+.env
+.venv/
+venv/
+env/
+*.conda
+*.yml
+*.yaml
+
+# --- Telethon session files (⚠️ sensitive) ---
+*.session
+*.session-journal
+
+# --- Local data files ---
+data/
+downloads/
+*.csv
+*.xlsx
+*.json
+*.zip
+*.tar
+*.gz
+
+# --- IDE / Editor specific ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Temporary files ---
+*.tmp
+*.bak
+*.old
+
+# --- Reports & logs ---
+*.log
+logs/
+*.out
+*.err
+
+# --- Checkpoints & model weights ---
+checkpoints/
+models/
+*.pt
+*.bin
+*.h5
+
+# --- Backup files ---
+*~
