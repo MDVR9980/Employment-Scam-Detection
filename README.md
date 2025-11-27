@@ -14,12 +14,12 @@ Key challenges addressed:
 - **Text Processing:** Converting unstructured job descriptions into meaningful numerical vectors.
 
 ## 📂 Project Structure
-
+```text
 ├── DataSet.csv              # The dataset containing job descriptions (EMSCAD)
 ├── Project_Analysis.ipynb   # Main Jupyter Notebook with code, visualizations, and models
 ├── requirements.txt         # List of dependencies
 └── README.md                # Project documentation
-‍‍
+```
 
 ## 🚀 Key Features & Methodology
 
@@ -56,15 +56,18 @@ Since detecting fraud is the priority, **Recall (Sensitivity)** is the most crit
    ```bash
    git clone https://github.com/YOUR_USERNAME/Employment-Scam-Detection.git
    cd Employment-Scam-Detection
+   ```
 
 ### Create a Virtual Environment (Optional but recommended):
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### Run the Analysis
 Open `Project_Analysis.ipynb` in Jupyter Notebook or VS Code to see the step-by-step implementation.
